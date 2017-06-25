@@ -8,8 +8,26 @@ The code in this repo is for the Twitter Sentiment Analysis challenge for the vi
 * [tweepy](http://www.tweepy.org/)
 * [textblob](https://textblob.readthedocs.io/en/dev/)
 
-Install missing dependencies using pip
+Install the missing dependencies using pip
 ~~~~
 pip install numpy tweepy textblob
 ~~~~
+
+# Using the project
+
+After installing the dependencies, run the script in terminal 
+
+~~~~
+python Tweet_Sentiment_Analysis.py
+~~~~
+
+Before running the script, do change the following query features 
+* keywords - List of keywords to be searched in the tweet keywords  keywords = ['Antonio Conte']
+* hashtag - Hashtag related to the topic                            hashtag = "CFC" 
+* since = "yyyy-mm-dd"
+* until = "yyyy-mm-dd"
+
+# Credits
+
+The boilerplate code for this challenge was provided by Siraj Raval
 
