@@ -22,8 +22,8 @@ python Tweet_Sentiment_Analysis.py
 ~~~~
 
 Before running the script, do change the following query features 
-* keywords - List of keywords to be searched in the tweet keywords  keywords = ['Antonio Conte']
-* hashtag - Hashtag related to the topic                            hashtag = "CFC" 
+* keywords - List of keywords to be searched in the tweet keywords 
+* hashtag - Hashtag related to the topic                            
 * since = "yyyy-mm-dd"
 * until = "yyyy-mm-dd"
 
