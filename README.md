@@ -29,5 +29,5 @@ Before running the script, do change the following query features
 
 # Credits
 
-The boilerplate code for this challenge was provided by Siraj Raval
+The boilerplate code for this challenge was provided by [Siraj Raval] (https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A).
 
